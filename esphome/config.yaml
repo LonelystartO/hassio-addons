@@ -35,4 +35,4 @@ version: 2025.6.0
 slug: esphome
 description: Build your own smart home devices using ESPHome, no programming experience
   required.
-image: liuyi802/esphome-armv7:stable
+image: liuyi802/esphome-armv7
