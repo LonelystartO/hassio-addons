@@ -26,3 +26,4 @@
 
 ![image](https://github.com/user-attachments/assets/65aa95d5-9c17-4911-9b92-25f1ae7d384d)
 
+![image](https://github.com/LonelystartO/hassio-addons/blob/master/images/support-devices.jpg)
